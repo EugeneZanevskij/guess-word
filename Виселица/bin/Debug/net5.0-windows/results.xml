@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ArrayOfPlayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Player>
+    <Name>ghg</Name>
+    <Tries>2</Tries>
+    <Wins>0</Wins>
+  </Player>
+  <Player>
+    <Name>ghg</Name>
+    <Tries>2</Tries>
+    <Wins>0</Wins>
+  </Player>
+</ArrayOfPlayer><Name>asd</Name>
+    <Tries>5</Tries>
+    <Wins>0</Wins>
+  </Player>
+  <Player>
+    <Name>asd</Name>
+    <Tries>5</Tries>
+    <Wins>0</Wins>
+  </Player>
+  <Player>
+    <Name>asd</Name>
+    <Tries>5</Tries>
+    <Wins>0</Wins>
+  </Player>
+</ArrayOfPlayer><Name>asd</Name>
+    <Tries>7</Tries>
+    <Wins>0</Wins>
+  </Player>
+  <Player>
+    <Name>asd</Name>
+    <Tries>7</Tries>
+    <Wins>0</Wins>
+  </Player>
+</ArrayOfPlayer><Name>tester</Name>
+    <Tries>3</Tries>
+    <Wins>0</Wins>
+  </Player>
+  <Player>
+    <Name>tester</Name>
+    <Tries>3</Tries>
+    <Wins>0</Wins>
+  </Player>
+  <Player>
+    <Name>tester</Name>
+    <Tries>3</Tries>
+    <Wins>0</Wins>
+  </Player>
+</ArrayOfPlayer>
